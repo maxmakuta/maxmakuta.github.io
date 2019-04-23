@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  font-family: Arial;
+  background-color: #fff;
+  color: #000;
+  line-height: 1.2;
+}
+
+.note textarea {
+		
+		resize: none;
+		box-sizing: border-box;
+		display: none;
+	}
+
+.add {
+
+margin-bottom: 10px;
+}
